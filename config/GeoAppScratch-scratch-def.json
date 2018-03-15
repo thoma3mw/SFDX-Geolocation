@@ -1,0 +1,9 @@
+{
+  "orgName": "GeoAppScratch",
+  "edition": "Developer",
+  "features": "AuthorApex;CustomApps;CustomTabs;ForceComPlatform",
+  "orgPreferences": {
+    "enabled": [],
+    "disabled": []
+  }
+}

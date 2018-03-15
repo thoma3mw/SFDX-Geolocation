@@ -1,0 +1,9 @@
+{
+  "orgName": "Geolocation Demo Co",
+  "edition": "Developer",
+  "features": "AuthorApex;CustomApps;CustomTabs;ForceComPlatform",
+  "orgPreferences": {
+    "enabled": [],
+    "disabled": []
+  }
+}
